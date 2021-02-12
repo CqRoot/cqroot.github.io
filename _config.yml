@@ -106,12 +106,9 @@ theme: oranges
 deploy:
   type: ''
 
-# Generate categories from directory-tree
-# Dependencies: https://github.com/xu-song/hexo-auto-category
-# depth: the max_depth of directory-tree you want to generate, should > 0
-auto_category:
-  enable: true
-  depth: 
+auto_dir_categorize:
+  enable: true  # options:true, false; default is true
+  force: true # options:true, false; default is false
 
 search:
   path: search.xml

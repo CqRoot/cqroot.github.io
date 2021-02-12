@@ -1,9 +1,6 @@
 ---
 title: parted 分区工具
 date: 2021-02-10 23:31:38
-tags: [linux,storage]
-categories:
-  - storage
 ---
 
 # parted - 分区工具

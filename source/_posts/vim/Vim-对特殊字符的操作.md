@@ -1,9 +1,6 @@
 ---
 title: Vim 对特殊字符的操作
 date: 2021-02-10 19:18:27
-tags: vim
-categories:
-  - vim
 ---
 
 # Vim 对特殊字符的操作

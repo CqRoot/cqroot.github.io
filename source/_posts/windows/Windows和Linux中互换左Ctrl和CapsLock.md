@@ -1,9 +1,6 @@
 ---
 title: Windows和Linux互换左Ctrl和CapsLock
 date: 2021-02-10 19:26:14
-tags: windows
-categories:
-  - windows
 ---
 
 # Windows和Linux中互换左Ctrl和CapsLock

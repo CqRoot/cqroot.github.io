@@ -77,11 +77,6 @@ navbar:
     path: /
     key: home
   -
-    name: Archives
-    enable: true
-    path: /archives/
-    key: archives
-  -
     name: Categories
     enable: true
     path: /categories/
@@ -91,6 +86,11 @@ navbar:
     enable: false
     path: /tags/
     key: tags
+  -
+    name: Archives
+    enable: true
+    path: /archives/
+    key: archives
   -
     name: Friends
     enable: false

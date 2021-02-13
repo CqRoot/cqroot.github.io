@@ -70,6 +70,8 @@ s = append([]int{1, 2, 3}, s...) // 向切片前面追加元素
 
 需要注意的是，在切片容量不足的情况下，append的操作会导致重新分配内存和数据复制。
 
+> https://golang.org/ref/spec#Appending_and_copying_slices
+
 ## 遍历切片元素
 
 使用内置的`range()`函数可以遍历切片元素。用法如下：

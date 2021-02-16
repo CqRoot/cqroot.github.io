@@ -77,7 +77,7 @@ Slice后使用`...`运算符会把Slice打散作为参数传递。
 使用内置的`range()`函数可以遍历Slice元素。用法如下：
 
 ```go
-for _, item := range(s) {
+for _, item := range s {
 	fmt.Println(item)
 }
 ```

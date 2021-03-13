@@ -32,4 +32,6 @@ date: 2021-02-11 14:45:18
 | [Sublime Merge](https://www.sublimemerge.com/)               | Git可视化客户端    | Line-by-line Staging. Commit Editing. Unmatched Performance. |
 | [Microsoft PowerToys](https://github.com/microsoft/PowerToys) | 生产力工具集       | 微软官方出品的开源生产力工具集。                             |
 | [Alacritty](https://github.com/alacritty/alacritty)          | 跨平台终端模拟器   | A cross-platform, OpenGL terminal emulator.                  |
+| [terminus](https://github.com/Eugeny/terminus)               | 跨平台终端模拟器   | A terminal for a more modern age.                            |
+| [Obisidian](https://obsidian.md/)                            | 笔记               | Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files. |
 
